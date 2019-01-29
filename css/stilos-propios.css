@@ -1,3 +1,7 @@
 div.importante{
+<<<<<<< HEAD
   border: 20px solid white !important;
+=======
+  border: 20px solid gray !important;
+>>>>>>> cambio-colores
 }
